@@ -9,7 +9,7 @@
 
 - 🌐 I also maintain [my personal website](https://ouardi-ilyass.github.io/)
 
-- 📄 Know about my experiences on [my CV](https://ouardi-ilyass.github.io/cv/)
+- 📄 Know about my experiences on [my CV](https://ouardi-ilyass.github.io/cv)
 
 - 📫 How to reach me **ilyassouardi@gmail.com**
 
